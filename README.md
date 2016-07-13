@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi Githubs,
+i have found this site as excellent source for learning
